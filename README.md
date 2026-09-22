@@ -137,8 +137,8 @@ Dashboard file: [BlinkIt.pbix](file:///e:/Data%20Analytics%20Project/Blinkit_Dat
 🎓 **B.Tech, Computer Science & Engineering (Data Science)**
 Vellore Institute of Technology (VIT), Chennai
 
-* **Email**: [your.email@example.com](mailto:aurnav1007@gmail.com)
-* **GitHub**: [github.com/your-username](https://github.com/aurnavtyagi)
+* **Email**: [aurnav1007@gmail.com](mailto:aurnav1007@gmail.com)
+* **GitHub**: [github.com/aurnavtyagi](https://github.com/aurnavtyagi)
 * **Interests**: Machine Learning, Data Science, Data Engineering,Applied AI,Data Science.
 
 Feel free to reach out or browse my other projects!
